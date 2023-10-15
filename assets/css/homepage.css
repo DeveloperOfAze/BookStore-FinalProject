@@ -1,0 +1,258 @@
+* {
+    background: #FFFAF5;
+}
+
+.book-logo {
+    display: flex;
+    margin-left: 215px;
+    margin-top: 31px;
+}
+
+.library {
+    margin-left: 2px;
+    margin-top: 2px;
+    color: #720418;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    border-bottom: 2px gray solid;
+    padding-bottom: 5px;
+}
+
+.book_store {
+    margin-top: -7px;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    gap: 21px;
+}
+
+.list {
+    margin-left: 221px;
+}
+
+a {
+    color: #241400;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 196.187%;
+    /* 23.542px */
+    text-decoration: none;
+}
+
+.ul-firstelement {
+    color: #E16A00;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 196.187%;
+    /* 23.542px */
+    text-decoration-line: underline;
+}
+
+.join-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 356px;
+}
+
+.catalog-h2 {
+    color: var(--, #241400);
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 196.187%;
+    /* 70.627px */
+}
+
+.catalog-p {
+    color: var(--, #241400);
+    margin-top: -40px;
+    /* Текст в параграфах */
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 196.187%;
+    /* 25.504px */
+    display: flex;
+    width: 370px;
+    height: 61px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.catalog-button {
+    width: 212px;
+    height: 50px;
+    flex-shrink: 0;
+    background: var(--2, #E16A00);
+    border: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 196.187%;
+    /* 29.428px */
+}
+
+.left-side {
+    margin-left: 215px;
+    margin-top: 253px;
+
+}
+
+.Catalog {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.rigt-side {
+    margin-left: 119px;
+    margin-top: 146px;
+}
+
+.text-background {
+    border-radius: 10px;
+    box-shadow: 0px 4px 11px 0px rgba(0, 0, 0, 0.25);
+    width: 242px;
+    height: 76px;
+}
+
+.text-background p {
+    color: var(--, #241400);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 196.187%;
+    /* 27.466px */
+    text-align: center;
+    padding-top: 12px;
+}
+
+.textandbackground {
+    display: flex;
+    gap: 36px;
+
+}
+
+.sectioncatalog {
+    margin-top: 86px;
+}
+
+.Catalogcenter h2 {
+    text-align: center;
+    color: #000;
+
+    /* Заголовок h2 */
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 196.187%;
+    /* 49.047px */
+}
+
+.textandbackground {
+    margin-left: 325px;
+    margin-top: 47px;
+}
+
+.reqem {
+    color: #241400;
+    width: 90px;
+    /* Текст в параграфах */
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: bold;
+    font-weight: 800;
+    line-height: 196.187%;
+    /* 25.504px */
+}
+
+.Aboutstore-flex {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 215px;
+}
+
+.flex-text {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.flex-text2 {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+.aboutstoreh2 {
+    color: var(--, #241400);
+
+    /* Заголовок h2 */
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: 196.187%;
+    /* 49.047px */
+    text-align: center;
+}
+
+.aboutstore-section {
+    margin: 0 auto;
+    margin-top: 135px;
+}
+
+.deliveryh2 {
+    color: #241400;
+    text-align: center;
+    /* Заголовок h2 */
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 196.187%;
+    /* 49.047px */
+}
+
+.deliverytext {
+    color: #241400;
+    text-align: center;
+
+    /* Основной */
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 196.187%;
+    /* 23.542px */
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.delivery {
+    margin-top: 195px;
+}
+
+#catalogbutton-item {
+    background:  #E16A00;
+    color: white;
+}
